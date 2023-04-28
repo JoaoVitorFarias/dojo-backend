@@ -83,7 +83,7 @@ O CRUD são as quatro operações básicas do desenvolvimento de uma aplicação
 
 Explicação de como está funcionando a organização do código backend do Alectrion, este material foi disponibilizado pela equipe Alectrion do semestre 2022.2.
 
-[![Watch the video](https://img.youtube.com/vi/Rn4D-ObdteI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rn4D-ObdteI)
+[![Organização do código backend do Alectrion](https://img.youtube.com/vi/Rn4D-ObdteI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rn4D-ObdteI)
 
 ## Material Extra
 
