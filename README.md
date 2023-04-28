@@ -38,7 +38,7 @@ Node é um runtime, que nada mais é do que um conjunto de códigos, API’s, ou
 - [RoadMap de estudo para Node](https://roadmap.sh/nodejs)
 - Material disponível no Youtube:
 
-[![Watch the video](https://img.youtube.com/vi/gG3pytAY2MY/maxresdefault.jpg)](https://www.youtube.com/watch?v=gG3pytAY2MY&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&index=8)
+[![Watch the video](https://img.youtube.com/vi/gG3pytAY2MY/maxresdefault.jpg)](https://www.youtube.com/watch?v=gG3pytAY2MY)
 
 ## 3. RestAPI
 [![Watch the video](https://img.youtube.com/vi/ghTrp1x_1As/maxresdefault.jpg)](https://www.youtube.com/watch?v=ghTrp1x_1As)
