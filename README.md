@@ -38,7 +38,7 @@ Node é um runtime, que nada mais é do que um conjunto de códigos, API’s, ou
 - [RoadMap de estudo para Node](https://roadmap.sh/nodejs)
 - Material disponível no Youtube:
 
-[![Watch the video](https://img.youtube.com/vi/gG3pytAY2MY/maxresdefault.jpg)](https://www.youtube.com/watch?v=gG3pytAY2MY&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&index=8)
+[![Watch the video](https://img.youtube.com/vi/gG3pytAY2MY/maxresdefault.jpg)](https://www.youtube.com/watch?v=gG3pytAY2MY)
 
 ## 3. RestAPI
 [![Watch the video](https://img.youtube.com/vi/ghTrp1x_1As/maxresdefault.jpg)](https://www.youtube.com/watch?v=ghTrp1x_1As)
@@ -79,13 +79,13 @@ O CRUD são as quatro operações básicas do desenvolvimento de uma aplicação
 [![Watch the video](https://img.youtube.com/vi/j8cm2C5-xn8/maxresdefault.jpg)](https://www.youtube.com/watch?v=j8cm2C5-xn8)
 
 
-## Material Extra
-
-- [Curso Gratuito](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm) sobre Node e backend no geral.
-- [Curso Pago](https://www.udemy.com/course/dev-fullstack/) que aborda tanto as tecnologias do backend quanto as tecnologias do frontend
-
 ## Explicação sobre a organização do backend do Alectrion
 
 Explicação de como está funcionando a organização do código backend do Alectrion, este material foi disponibilizado pela equipe Alectrion do semestre 2022.2.
 
 [![Watch the video](https://img.youtube.com/vi/Rn4D-ObdteI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rn4D-ObdteI)
+
+## Material Extra
+
+- [Curso Gratuito](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm) sobre Node e backend no geral.
+- [Curso Pago](https://www.udemy.com/course/dev-fullstack/) que aborda tanto as tecnologias do backend quanto as tecnologias do frontend
